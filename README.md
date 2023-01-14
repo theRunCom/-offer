@@ -1,20 +1,31 @@
 ## 剑指offer（第2版）
 
-| 题号  | 题目 |
-|:---:|:---:|
-| 3   | [数组中重复的数字](solutions/Offer_03.cpp) 
-| 4   | [二维数组中的查找](solutions/Offer_04.cpp) 
-| 5   | [替换空格](solutions/Offer_05.cpp) 
-| 6   | [从尾到头打印链表](solutions/Offer_06.cpp) 
-| 7   | [重建二叉树](solutions/Offer_07.cpp) 
-| 9   | [用两个栈实现队列](solutions/Offer_09.cpp) 
-| 10-I  | [斐波那契数列](solutions/Offer_10-I.cpp) 
-| 10-II | [青蛙跳台阶问题](solutions/Offer_10-II.cpp) 
-| 11  | [旋转数组的最小数字](solutions/Offer_11.cpp) 
-| 12  | [矩阵中的路径](solutions/Offer_12.cpp) 
+| 题号  | 题目 | 代码 |
+|:---:|:---:|:---:|
+| 3   | [数组中重复的数字](https://leetcode.cn/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/?favorite=xb9nqhhg) | [数组中重复的数字](solutions/Offer_03.cpp) | 
+| 4   | [二维数组中的查找](https://leetcode.cn/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/description/?favorite=xb9nqhhg) | [二维数组中的查找](solutions/Offer_04.cpp) 
+| 5   | [替换空格](https://leetcode.cn/problems/ti-huan-kong-ge-lcof/description/?favorite=xb9nqhhg) | [替换空格](solutions/Offer_05.cpp) 
+| 6   | [从尾到头打印链表](https://leetcode.cn/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/description/?favorite=xb9nqhhg) | [从尾到头打印链表](solutions/Offer_06.cpp) 
+| 7   | [重建二叉树](https://leetcode.cn/problems/zhong-jian-er-cha-shu-lcof/description/?favorite=xb9nqhhg) | [重建二叉树](solutions/Offer_07.cpp) 
+| 9   | [用两个栈实现队列](https://leetcode.cn/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/description/?favorite=xb9nqhhg) | [用两个栈实现队列](solutions/Offer_09.cpp) 
+| 10-I  | [斐波那契数列](https://leetcode.cn/problems/fei-bo-na-qi-shu-lie-lcof/description/?favorite=xb9nqhhg) | [斐波那契数列](solutions/Offer_10-I.cpp) 
+| 10-II | [青蛙跳台阶问题](https://leetcode.cn/problems/qing-wa-tiao-tai-jie-wen-ti-lcof/description/?favorite=xb9nqhhg) | [青蛙跳台阶问题](solutions/Offer_10-II.cpp) 
+| 11  | [旋转数组的最小数字](https://leetcode.cn/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/description/?favorite=xb9nqhhg) | [旋转数组的最小数字](solutions/Offer_11.cpp) 
+| 12  | [矩阵中的路径](https://leetcode.cn/problems/ju-zhen-zhong-de-lu-jing-lcof/description/?favorite=xb9nqhhg) | [矩阵中的路径](solutions/Offer_12.cpp) 
 | 14-I  | [剪绳子](solutions/Offer_14-I.cpp) 
 | 14-II | [剪绳子 II](solutions/Offer_14-II.cpp) 
 | 15  | [二进制中1的个数](solutions/Offer_15.cpp) 
 | 16  | [数值的整数次方](solutions/Offer_16.cpp) 
 | 17  | [打印从1到最大的n位数](solutions/Offer_17.cpp) 
 | 18  | [删除链表的节点](solutions/Offer_18.cpp) 
+| 19  | [正则表达式匹配](solutions/Offer_19.cpp) 
+| 20  | [表示数值的字符串](solutions/Offer_20.cpp) 
+| 21  | [调整数组顺序使奇数位于偶数前面](solutions/Offer_21.cpp) 
+| 22  | [链表中倒数第k个节点](solutions/Offer_22.cpp) 
+| 24  | [反转链表](solutions/Offer_24.cpp) 
+| 25  | [合并两个排序的链表](solutions/Offer_25.cpp) 
+| 26  | [树的子结构](solutions/Offer_26.cpp) 
+| 27  | [二叉树的镜像](solutions/Offer_27.cpp) 
+| 28  | [对称的二叉树](solutions/Offer_28.cpp) 
+| 29  | [顺时针打印矩阵](solutions/Offer_29.cpp) 
+| 30  | [包含min函数的栈](solutions/Offer_30.cpp) 
