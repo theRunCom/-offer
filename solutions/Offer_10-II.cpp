@@ -1,4 +1,3 @@
-// 原题链接：https://leetcode.cn/problems/qing-wa-tiao-tai-jie-wen-ti-lcof/description/?favorite=xb9nqhhg
 class Solution {
 public:
     int numWays(int n) {
