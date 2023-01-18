@@ -1,4 +1,3 @@
-// 原题链接：https://leetcode.cn/problems/zhong-jian-er-cha-shu-lcof/description/?favorite=xb9nqhhg
 /**
  * Definition for a binary tree node.
  * struct TreeNode {
