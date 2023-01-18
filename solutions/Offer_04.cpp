@@ -1,4 +1,3 @@
-// 原题链接：https://leetcode.cn/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/description/?favorite=xb9nqhhg
 class Solution {
 public:
     bool findNumberIn2DArray(vector<vector<int>>& matrix, int target) {
