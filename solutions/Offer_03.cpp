@@ -1,4 +1,3 @@
-// 原题链接：https://leetcode.cn/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/?favorite=xb9nqhhg
 class Solution {
 public:
     int findRepeatNumber(vector<int>& nums) {
