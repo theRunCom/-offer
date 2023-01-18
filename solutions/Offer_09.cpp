@@ -1,4 +1,3 @@
-// 原题链接：https://leetcode.cn/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/description/?favorite=xb9nqhhg
 class CQueue {
 public:
     stack<int> stk, cache;
