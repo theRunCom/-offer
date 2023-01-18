@@ -1,4 +1,3 @@
-// 原题链接：https://leetcode.cn/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/description/?favorite=xb9nqhhg
 class Solution {
 public:
     int minArray(vector<int>& numbers) {
