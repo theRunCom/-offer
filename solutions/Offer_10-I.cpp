@@ -1,4 +1,3 @@
-// 原题链接：https://leetcode.cn/problems/fei-bo-na-qi-shu-lie-lcof/description/?favorite=xb9nqhhg
 class Solution {
 public:
     const int MOD = 1000000007;
