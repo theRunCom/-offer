@@ -1,4 +1,3 @@
-// 原题链接：https://leetcode.cn/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/description/?favorite=xb9nqhhg
 /**
  * Definition for singly-linked list.
  * struct ListNode {
