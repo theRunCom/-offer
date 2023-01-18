@@ -1,4 +1,3 @@
-// 原题链接：https://leetcode.cn/problems/ju-zhen-zhong-de-lu-jing-lcof/description/?favorite=xb9nqhhg
 class Solution {
 public:
     bool exist(vector<vector<char>>& board, string word) {
