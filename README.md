@@ -30,7 +30,7 @@
 | 29  | [顺时针打印矩阵](https://leetcode.cn/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/?favorite=xb9nqhhg) | [顺时针打印矩阵](solutions/Offer_29.cpp) 
 | 30  | [包含min函数的栈](https://leetcode.cn/problems/bao-han-minhan-shu-de-zhan-lcof/?favorite=xb9nqhhg) | [包含min函数的栈](solutions/Offer_30.cpp) 
 | 31  | [栈的压入、弹出序列](https://leetcode.cn/problems/zhan-de-ya-ru-dan-chu-xu-lie-lcof/?favorite=xb9nqhhg) | [栈的压入、弹出序列](solutions/Offer_31.cpp) 
-| 32-I  | [从上到下打印二叉树](https://leetcode.cn/problems/zhan-de-ya-ru-dan-chu-xu-lie-lcof/?favorite=xb9nqhhg) | [从上到下打印二叉树](solutions/Offer_32-I.cpp) 
+| 32-I  | [从上到下打印二叉树](https://leetcode.cn/problems/cong-shang-dao-xia-da-yin-er-cha-shu-lcof/?favorite=xb9nqhhg) | [从上到下打印二叉树](solutions/Offer_32-I.cpp) 
 | 32-II  | [从上到下打印二叉树 II](https://leetcode.cn/problems/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof/?favorite=xb9nqhhg) | [从上到下打印二叉树 II](solutions/Offer_32-II.cpp) 
 | 32-III  | [从上到下打印二叉树 III](https://leetcode.cn/problems/cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof/?favorite=xb9nqhhg) | [从上到下打印二叉树 III](solutions/Offer_32-III.cpp) 
 | 33  | [二叉搜索树的后序遍历序列](https://leetcode.cn/problems/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof/?favorite=xb9nqhhg) | [二叉搜索树的后序遍历序列](solutions/Offer_33.cpp) 
