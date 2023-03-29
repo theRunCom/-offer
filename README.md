@@ -72,7 +72,6 @@ https://www.bilibili.com/video/BV1iY4y1R7S2/?spm_id_from=333.999.0.0&vd_source=3
 | 62  | [圆圈中最后剩下的数字](https://leetcode.cn/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/description/?favorite=xb9nqhhg&languageTags=cpp) | [圆圈中最后剩下的数字](solutions/Offer_62.cpp) 
 | 63  | [股票的最大利润](https://leetcode.cn/problems/gu-piao-de-zui-da-li-run-lcof/?favorite=xb9nqhhg) | [股票的最大利润](solutions/Offer_63.cpp) 
 | 64  | [求1+2+…+n](https://leetcode.cn/problems/qiu-12n-lcof/description/?favorite=xb9nqhhg&languageTags=cpp) | [求1+2+…+n](solutions/Offer_64.cpp) 
-| 60  | [n个骰子的点数](https://leetcode.cn/problems/nge-tou-zi-de-dian-shu-lcof/?favorite=xb9nqhhg) | [n个骰子的点数](solutions/Offer_60.cpp) 
 | 65  | [不用加减乘除做加法](https://leetcode.cn/problems/bu-yong-jia-jian-cheng-chu-zuo-jia-fa-lcof/description/?favorite=xb9nqhhg&languageTags=cpp) | [不用加减乘除做加法](solutions/Offer_65.cpp) 
 | 66  | [构建乘积数组](https://leetcode.cn/problems/gou-jian-cheng-ji-shu-zu-lcof/?favorite=xb9nqhhg) | [构建乘积数组](solutions/Offer_66.cpp) 
 | 68-I  | [二叉搜索树的最近公共祖先](https://leetcode.cn/problems/er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof/?favorite=xb9nqhhg) | [二叉搜索树的最近公共祖先](solutions/Offer_68-I.cpp) 
