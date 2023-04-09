@@ -14,3 +14,4 @@ public:
         return res == -1 ? nums.size() : res;
     }
 };
+
