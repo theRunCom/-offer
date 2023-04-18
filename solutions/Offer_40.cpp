@@ -8,7 +8,6 @@ public:
         }
         vector<int> ans;
         while (pq.size()) ans.push_back(pq.top()), pq.pop();
-        reverse(ans.begin(), ans.end());
         return ans;
     }
 };
