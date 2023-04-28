@@ -24,6 +24,7 @@ public:
                 isNum = true; 
             }
         }
+        while(s[i] == ' ') ++i; 
         return (s[i] == '\0' && isNum);
     }
 };
