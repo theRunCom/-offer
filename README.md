@@ -9,8 +9,8 @@ https://www.bilibili.com/video/BV1iY4y1R7S2/?spm_id_from=333.999.0.0&vd_source=3
 | 3   | [找出数组中重复的数字](https://www.acwing.com/problem/content/14/) | [找出数组中重复的数字](solutions/Offer_03.cpp) | 
 | 4   | [二维数组中的查找](https://www.acwing.com/problem/content/16/) | [二维数组中的查找](solutions/Offer_04.cpp) 
 | 5   | [替换空格](https://www.acwing.com/problem/content/17/) | [替换空格](solutions/Offer_05.cpp) 
-| 6   | [从尾到头打印链表](https://leetcode.cn/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/description/?favorite=xb9nqhhg) | [从尾到头打印链表](solutions/Offer_06.cpp) 
-| 7   | [重建二叉树](https://leetcode.cn/problems/zhong-jian-er-cha-shu-lcof/description/?favorite=xb9nqhhg) | [重建二叉树](solutions/Offer_07.cpp) 
+| 6   | [从尾到头打印链表](https://www.acwing.com/problem/content/18/) | [从尾到头打印链表](solutions/Offer_06.cpp) 
+| 7   | [重建二叉树](https://www.acwing.com/problem/content/23/) | [重建二叉树](solutions/Offer_07.cpp) 
 | 9   | [用两个栈实现队列](https://leetcode.cn/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/description/?favorite=xb9nqhhg) | [用两个栈实现队列](solutions/Offer_09.cpp) 
 | 10-I  | [斐波那契数列](https://leetcode.cn/problems/fei-bo-na-qi-shu-lie-lcof/description/?favorite=xb9nqhhg) | [斐波那契数列](solutions/Offer_10-I.cpp) 
 | 10-II | [青蛙跳台阶问题](https://leetcode.cn/problems/qing-wa-tiao-tai-jie-wen-ti-lcof/description/?favorite=xb9nqhhg) | [青蛙跳台阶问题](solutions/Offer_10-II.cpp) 
