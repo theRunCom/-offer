@@ -7,7 +7,7 @@ https://www.bilibili.com/video/BV1iY4y1R7S2/?spm_id_from=333.999.0.0&vd_source=3
 | 题号  | 题目 | 代码 |
 |:---:|:---:|:---:|
 | 3   | [找出数组中重复的数字](https://www.acwing.com/problem/content/14/) | [找出数组中重复的数字](solutions/Offer_03.cpp) | 
-| 4   | [二维数组中的查找](https://leetcode.cn/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/description/?favorite=xb9nqhhg) | [二维数组中的查找](solutions/Offer_04.cpp) 
+| 4   | [二维数组中的查找](https://www.acwing.com/problem/content/16/) | [二维数组中的查找](solutions/Offer_04.cpp) 
 | 5   | [替换空格](https://leetcode.cn/problems/ti-huan-kong-ge-lcof/description/?favorite=xb9nqhhg) | [替换空格](solutions/Offer_05.cpp) 
 | 6   | [从尾到头打印链表](https://leetcode.cn/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/description/?favorite=xb9nqhhg) | [从尾到头打印链表](solutions/Offer_06.cpp) 
 | 7   | [重建二叉树](https://leetcode.cn/problems/zhong-jian-er-cha-shu-lcof/description/?favorite=xb9nqhhg) | [重建二叉树](solutions/Offer_07.cpp) 
