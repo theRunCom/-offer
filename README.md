@@ -1,9 +1,11 @@
 [![MasterHead](imgs/preface.jfif)](https://github.com/theRunCom/SwordForOffer)
-## 剑指offer（第2版）
-### 视频讲解:wink: (已完结)
-https://www.bilibili.com/video/BV1iY4y1R7S2/?spm_id_from=333.999.0.0&vd_source=3578253b1a5be4454f5364e93fb5cb1c
+# 剑指offer（第2版）
 
+## 视频讲解 ✔️ (已完结)
 
+[Bilibili 讲解视频](https://www.bilibili.com/video/BV1iY4y1R7S2/?spm_id_from=333.999.0.0&vd_source=3578253b1a5be4454f5364e93fb5cb1c)
+
+## 题目列表
 | 题号  | 题目 | 代码 |
 |:---:|:---:|:---:|
 | 3   | [找出数组中重复的数字](https://www.acwing.com/problem/content/14/) | [找出数组中重复的数字](solutions/Offer_03.cpp) | 
